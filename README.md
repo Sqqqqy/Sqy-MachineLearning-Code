@@ -1,2 +1,2 @@
-# Sqy-MachineLearning-Code
+# Sqy-MachineLearning
 ML
